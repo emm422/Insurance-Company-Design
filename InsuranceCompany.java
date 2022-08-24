@@ -4,8 +4,9 @@ import java.util.Scanner;
 import java.util.Calendar;
 import java.util.Date;
 
-public class FinalProject {
-    static final String DB_URL = "jdbc:oracle:thin:@edgar1.cse.lehigh.edu:1521:cse241";
+public class InsuranceCompany {
+    // database URL
+    static final String DB_URL = "";
 /************************************************************************************************************************************************************************/
     public static void main(String[] args){ 
         //initialize connection and prepared statements
